@@ -1,0 +1,8 @@
+A	B	C	composto
+4.4245	1312.25	-32.445	Acetona	
+4.0181	1203.84	-53.226	Benzeno
+4.1398	1316.55	-35.581	Ciclohexano
+5.2468	1598.67	-46.424	Etanol
+4.0220	1062.64	-44.93	Eter Dietilico
+5.2041	1584.34	-33.50	Metanol
+

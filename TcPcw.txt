@@ -1,0 +1,7 @@
+Tc(K)	Pc(MPa)	w	composto
+508.2	4.71E6	0.307	Acetona
+562.16	4.88E6	0.209	Benzeno
+553.58	4.10E6	0.212	Ciclohexanol
+513.92	6.12E6	0.643	Etanol
+466.7	3.64E6	0.281	Eter Dietilico
+512.64	8.14E6	0.566	Metanol
